@@ -22,4 +22,4 @@ As seguintes ferramentas foram usadas na construção do projeto.
 - [x] Importar arquivos CSV
 
 ## Preview
-![gomarketplace_mob](https://user-images.githubusercontent.com/26713717/90690298-d7d77b00-e247-11ea-9d56-70e7f5b9627c.png)
+![gofinances](https://user-images.githubusercontent.com/26713717/90691706-271eab00-e24a-11ea-9df4-0e8f63e53304.png)
